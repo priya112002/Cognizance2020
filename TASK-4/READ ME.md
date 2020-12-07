@@ -1,6 +1,6 @@
 # Seven Wonders of The World
 
-## The Seven Wonders of the World are the Taj Mahal, the Colosseum, the Chichen Itza, Machu Picchu, Christ the Redeemer, Petra, and the Great Wall of China.
+### The Seven Wonders of the World are the Taj Mahal, the Colosseum, the Chichen Itza, Machu Picchu, Christ the Redeemer, Petra, and the Great Wall of China.
 
 
 1. * Taj Mahal
