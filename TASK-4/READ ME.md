@@ -41,6 +41,8 @@ ___
 it is located in China and the Great Wall is the collective name given to a series of fortification systems built across the borders of the country. The purpose of the Great Wall was to protect as well as mark the territories of the Chinese states and empires. Several of the walls were found to have been built as early as the 7th century BC, but the most well known sections were built by the Ming dynasty (1368–1644). An archaeological survey found that the entire wall with all of its branches measures out to be 21,196 km. 
 >It was designated a UNESCO World Heritage site in 1987, and attracts many visitors every year
 ___
+___
+---
 
 find out more about 7 wonders through [new seven wonders of world](http://world.new7wonders.com/new7wonders-of-the-world-page/new7wonders-of-the-world-finalists/)
 
