@@ -5,7 +5,7 @@
 
 1. * Taj Mahal
 
-  *  '<p>The **Taj Mahal** is known the world over for its beautiful architecture, history and the tale of love that led to its creation. Located in the Indian city of Agra, the Taj Mahal was commissioned in 1632 by the Mughal emperor Shah Jahan as a testament of his love for his departed wife Mumtaz Mahal. Apart from housing her tomb, it also contains the tomb of Shah Jahan himself. The mausoleum, built with an ~~ivory-white marble~~ and precious stones.
+  *  '<p>The **Taj Mahal** is known the world over for its beautiful architecture, history and the tale of love that led to its creation. Located in the Indian city of Agra, the Taj Mahal was commissioned in 1632 by the Mughal emperor Shah Jahan as a testament of his love for his departed wife Mumtaz Mahal. Apart from housing her tomb, it also contains the tomb of Shah Jahan himself. The mausoleum, built with an ivory-white marble and precious stones.
   </p>' 
 > It was designated as a UNESCO World Heritage Site in 1983
 ___
